@@ -14,7 +14,7 @@ minikube는 t2.micro(프리티어)에서는 실행되지 않습니다.
 sudo su -
 mkdir git
 cd git
-git clone https://github.com/Kyeongrok/docker_minikube_kubectl_install
+git clone https://github.com/Bae-Ji-Won/docker_minikube_kubectl_install
 ```
 
 ## Kubeadm설치는 아래 링크
@@ -24,11 +24,11 @@ git clone https://github.com/Kyeongrok/docker_minikube_kubectl_install
 
 sudo su - 
 
-git clone https://github.com/Kyeongrok/docker_minikube_kubectl_install; cd docker_minikube_kubectl_install;sh docker_install.sh;
+git clone https://github.com/Bae-Ji-Won/docker_minikube_kubectl_install; cd docker_minikube_kubectl_install;sh docker_install.sh;
 
 
 ## Minikube Short Cut
-git clone https://github.com/Kyeongrok/docker_minikube_kubectl_install; cd docker_minikube_kubectl_install;sh docker_install.sh; sh minikube_install.sh; sh kubectl_install.sh; sh utils.sh
+git clone https://github.com/Bae-Ji-Won/docker_minikube_kubectl_install; cd docker_minikube_kubectl_install;sh docker_install.sh; sh minikube_install.sh; sh kubectl_install.sh; sh utils.sh
 
 ## 사용 방법
 
